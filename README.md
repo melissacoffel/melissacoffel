@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melissacoffel
-- 👀 I’m interested in neuroscience, neuropsychology, neurocognition, language, disability, education, and health
-- 🌱 I’m currently learning R and python
+- 👀 I’m interested in neuroscience, neuropsychology, psychology, cognitive science, language, disability, education, and public health
+- 🌱 I’m currently data science methods using Python, R, SQL 
 - 💞️ I’m looking to advance my coding and statistical analysis skills
 - 📫 How to reach me melissacoffel.com
 
